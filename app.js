@@ -16,7 +16,7 @@
 	}
 		
 	
-	require("./awshelper").initAWS(initConsole, AWS_CONFIG_FILE);
+	require("./awshelpers").initAWS(initConsole, AWS_CONFIG_FILE);
 		
 
 })()

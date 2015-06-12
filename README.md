@@ -14,3 +14,4 @@ Usage:
 - recv - receive a single message from queue
 - help - display help
 
+AWS konsola SQS NodeJS
